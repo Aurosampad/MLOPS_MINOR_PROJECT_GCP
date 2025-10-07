@@ -1,2 +1,1 @@
-## This is the Python app for a Fault Detection pipeline in Thermo-Vaccum systems.
-
+## This is a Python based app for fault detections in Thermo-vaccum systems
