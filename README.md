@@ -1,10 +1,3 @@
-## This is a Python based app for fault detections in Thermo-vaccum systems
-
-Perfect — this is a **complete MLOps project** setup (training → containerization → CI/CD → deployment → monitoring → scaling → data versioning).
-Here’s a **production-grade `README.md`** template tailored precisely for your **Fault Detection API project**, fully describing all integrated components (Docker, FastAPI/Flask, MLflow, GCP CI/CD, Kubernetes, DVC).
-
----
-
 ## 🧠 Fault Detection API — End-to-End MLOps Project
 
 ### 🚀 Overview
