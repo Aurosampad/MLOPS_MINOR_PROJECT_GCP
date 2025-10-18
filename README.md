@@ -272,6 +272,3 @@ MIT License © 2025 Aurosampad Mohanty
 
 ---
 
-Would you like me to **generate this README as a Markdown file (`README.md`)** and format it with badges (Docker, GCP, Kubernetes, MLflow, DVC)?
-That version will be production-ready for pushing to GitHub.
-
